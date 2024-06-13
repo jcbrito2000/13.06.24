@@ -1,0 +1,2 @@
+INSERT INTO `db_estudos`.`tbl_livros` (`sobrenome_autor`, `nome_autor`, `nome_do_livro`, `cidade_editora`, `nome_da_editora`) VALUES ('haig', 'matt', 'a biblioteca da meia noite', 'sao paulo', 'bertrand brasil');
+INSERT INTO `db_estudos`.`tbl_livros` (`sobrenome_autor`, `nome_autor`, `nome_do_livro`, `cidade_editora`, `nome_da_editora`) VALUES ('maquiavel', 'nicolau', 'o principe', 'sao paulo', 'garnier');
